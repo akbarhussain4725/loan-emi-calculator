@@ -38,4 +38,4 @@ loan_emi/
 MIT
 
 # loan-emi-calculator
->>>>>>> 122325e51d1fbabec9ffa1ca643138d40785d37d
+
