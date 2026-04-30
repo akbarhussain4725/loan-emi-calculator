@@ -1,0 +1,11 @@
+[project]
+name = "loan_emi"
+version = "0.1.0"
+description = "Loan EMI calculator package"
+authors = [
+  {name = "Akbar Hussain"}
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"

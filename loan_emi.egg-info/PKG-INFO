@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: loan_emi
+Version: 0.1.0
+Summary: Loan EMI calculator package
+Author: Akbar Hussain
+License-File: LICENSE
+Dynamic: license-file
