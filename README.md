@@ -1,3 +1,4 @@
+
 # Loan EMI Calculator
 
 A simple Python package to calculate loan EMI, total interest, and total payment.
@@ -35,3 +36,6 @@ loan_emi/
 
 ## License
 MIT
+
+# loan-emi-calculator
+>>>>>>> 122325e51d1fbabec9ffa1ca643138d40785d37d
