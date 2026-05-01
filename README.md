@@ -37,5 +37,3 @@ loan_emi/
 ## License
 MIT
 
-# loan-emi-calculator
-
