@@ -15,7 +15,7 @@ A simple Python package to calculate loan EMI, total interest, and total payment
 pip install loan-emi
 ```
 
-## Usage
+## Usage Example
 
 ```python
 from loan_emi import calculate_emi, total_payment, total_interest
